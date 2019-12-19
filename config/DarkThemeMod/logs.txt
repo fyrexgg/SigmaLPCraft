@@ -12,3 +12,17 @@ Processing texture: minecraft:textures/gui/widgets.png
 Detected new text stack trace class: com.zeitheron.darktheme.internal.GUIAwareFontRenderer
 Detected new text stack trace class: lumien.custommainmenu.gui.GuiCustomButton
 Processing texture: custommainmenu:textures/gui/buttons.png
+Detected new text stack trace class: net.minecraft.client.gui.Gui
+Detected new font color #ffff00 in class net.minecraft.client.gui.Gui. Replaced to #ffff00
+Detected new font color #ffffff in class net.minecraft.client.gui.Gui. Replaced to #bbbbbb
+Processing texture: minecraft:textures/gui/options_background.png
+Detected new text stack trace class: net.minecraft.client.gui.GuiListWorldSelectionEntry
+Detected new text stack trace class: net.minecraft.client.gui.GuiListExtended
+Detected new text stack trace class: net.minecraft.client.gui.GuiSlot
+Detected new text stack trace class: net.minecraft.client.gui.GuiWorldSelection
+Detected new font color #808080 in class net.minecraft.client.gui.GuiWorldSelection. Replaced to #808080
+Detected new font color #a0a0a0 in class net.minecraft.client.gui.Gui. Replaced to #a0a0a0
+Detected new font color #e0e0e0 in class net.minecraft.client.gui.Gui. Replaced to #e0e0e0
+Processing texture: minecraft:textures/gui/world_selection.png
+Detected new font color #ffffa0 in class net.minecraft.client.gui.Gui. Replaced to #ffffa0
+Detected new text stack trace class: net.minecraft.client.gui.GuiTextField
