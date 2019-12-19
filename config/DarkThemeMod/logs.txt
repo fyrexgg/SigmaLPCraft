@@ -1,0 +1,14 @@
+Processing texture: matteroverdrive:textures/gui/holo_icons.png
+Processing texture: thebetweenlands:textures/gui/manual/font_atlas.png
+Processing texture: minecraft:textures/gui/title/background/panorama_0.png
+Processing texture: minecraft:textures/gui/title/background/panorama_1.png
+Processing texture: minecraft:textures/gui/title/background/panorama_2.png
+Processing texture: minecraft:textures/gui/title/background/panorama_3.png
+Processing texture: minecraft:textures/gui/title/background/panorama_4.png
+Processing texture: minecraft:textures/gui/title/background/panorama_5.png
+Processing texture: custommainmenu:textures/gui/minecraft.png
+Processing texture: custommainmenu:textures/gui/edition.png
+Processing texture: minecraft:textures/gui/widgets.png
+Detected new text stack trace class: com.zeitheron.darktheme.internal.GUIAwareFontRenderer
+Detected new text stack trace class: lumien.custommainmenu.gui.GuiCustomButton
+Processing texture: custommainmenu:textures/gui/buttons.png
