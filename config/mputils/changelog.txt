@@ -1,3 +1,5 @@
-§e# Add Your ChangeLog to §c'changelog.txt'§r in the config files
+§lDevelopment Changelog
 
-You can use Minecrafts §9Color §2Codes §6to§r §nmake your changlogs look Good.
+PLEASE USE THE BUG TRACKER FOR REPORTING ISSUES!
+Sigma's Twitch chat is not the place to report bugs.
+------------------------------------------------------------------
