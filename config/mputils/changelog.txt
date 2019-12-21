@@ -3,3 +3,39 @@
 PLEASE USE THE BUG TRACKER FOR REPORTING ISSUES!
 Sigma's Twitch chat is not the place to report bugs.
 ------------------------------------------------------------------
+0.0.2-alpha
+
+Bug Fixes:
+* Fixed hunting dimension portal requiring a 0.75 strength ale to craft
+* Removed NoNetherPortals so that nether portals are able to lit now
+* Water buckets removed from LootTables
+
+Enhancements:
+* Configured OreSheep to be able to produce more items
+* Configured ChanceCubes and changed the recipe of them; custom rewards will be done before official release
+* Silk Touch Pendant recipe changed
+* Added recipe to get Charged Certus Quartz
+* Added default rewards for CCI - TO USE THESE YOU WILL NEED TO ADD YOUR STREAMLABS API TOKEN
+* Changed recipe for Evilcraft Blood Chest
+* Turned on Cylic step height for easier exploring
+* Added recipes for Mystical Agriculture infusion crystals
+* Changed ME Controller recipe to be a custom Compact Machines miniaturization recipe
+
+Mod Updates:
+* Actually Additions (r151-2)
+* BetterNether (0.1.8.5)
+* Biomes O'Plenty (7.0.1.2444)
+* Classic Bars (0.5.2a)
+* CreativeCore (v1.9.80)
+* Electroblobs Wizardry (4.2.6)
+* Foamfix (0.10.10)
+* JourneyMap (5.5.6)
+
+Mod Additions:
+Player Skin (1.0.5)
+
+Mod Removals:
+* NoNetherPortals (v1.0.0)
+
+Known Issues:
+* Texture of the ME Controller when held doesn't show it's proper texture

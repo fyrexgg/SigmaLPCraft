@@ -17,6 +17,7 @@ function init() {
     LootTable.removeGlobalItem("minecraft:ender_pearl");
     LootTable.removeGlobalItem("minecraft:blaze_powder");
     LootTable.removeGlobalItem("minecraft:bucket");
+    LootTable.removeGlobalItem("minecraft:water_bucket");
 
     //Remove all Botania items from LootTables
     LootTable.removeModTable("botania");

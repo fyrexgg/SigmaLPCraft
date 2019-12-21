@@ -146,7 +146,62 @@ found thebetweenlands.aqua_middle_gem_ore!
 found thebetweenlands.crimson_middle_gem_ore!
 found thebetweenlands.green_middle_gem_ore!
 Looking for hellrock: found!
+Looking for boneBlock: found!
+Looking for brewingStand: found!
+Looking for cactus: found!
+Looking for cake: found!
+Looking for chisel.basalt:3 of chisel.basalt found!
+Looking for chisel.limestone:3 of chisel.limestone found!
+Looking for chisel.marble:3 of chisel.marble found!
+Looking for clay: found!
+Looking for doorAcacia: found! However, sheep can't eat doorAcacia!
+Looking for doorBirch: found! However, sheep can't eat doorBirch!
+Looking for doorDarkOak: found! However, sheep can't eat doorDarkOak!
+Looking for doorIron: found! However, sheep can't eat doorIron!
+Looking for doorJungle: found! However, sheep can't eat doorJungle!
+Looking for doorOak: found! However, sheep can't eat doorOak!
+Looking for doorSpruce: found! However, sheep can't eat doorSpruce!
+Looking for farmland: found!
+Looking for fence:2 of fence found!
+Looking for furnace:2 of furnace found!
+Looking for glass: found!
+Looking for grass:2 of grass found!
+Looking for hayBlock: found!
+Looking for ice: found!
+Looking for jukebox: found!
+Looking for log:14 of log found!
+Looking for magma: found!
+Looking for melon: found!
+Looking for mycel: found!
+Looking for notGate:2 of notGate found!
+Looking for petalBlock: found!
+Looking for prismarine: found!
+Looking for pumpkin: found!
+Looking for rats.block_of_cheese: found!
+Looking for seaLantern: found!
+Looking for slime: found!
+Looking for snow:2 of snow found!
+Looking for sponge: found!
+Looking for stairsBrick: found!
 Looking for stairsStone: found!
+Looking for stairsWood: found!
+Looking for tnt: found!
+Looking for torch: found!
+Looking for woolCarpet: found!
+Looking for workbench: found!
+Looking for chisel.antiblock: found!
+Looking for modern_tv: found!
+Looking for modern_couch: found!
+Looking for modern_chair: found!
+Looking for modern_coffee_table: found!
+Looking for traffic_cone: found!
+Looking for clickmachine.auto_clicker: found!
+Looking for toilet: found!
+Looking for well: found!
+Looking for pistonStickyBase: found!
+Looking for pistonBase:2 of pistonBase found!
+Looking for chance_cube: found!
+Looking for stairsStone: found! stairsStone is in the be blocks and eat blocks sections. Please remove it from one of them.
 Looking for stoneSlab: found!
 Looking for button: found!
 Looking for pressurePlateStone: found!

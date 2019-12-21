@@ -1,0 +1,217 @@
+{
+    "name": "custom:me_controller",
+    "target-item": "appliedenergistics2:controller",
+    "target-meta": 8,
+    "target-count": 1,
+  
+    "duration": 120,
+  
+    "catalyst": "appliedenergistics2:quartz_glass",
+  
+  
+    "input-types": {
+      "a": {
+        "id": "enderio:block_alloy"
+      },
+      "b": {
+        "id": "appliedenergistics2:quantum_ring"
+      },
+      "c": {
+        "id": "appliedenergistics2:smooth_sky_stone_block"
+      },
+      "d": {
+        "id": "appliedenergistics2:energy_acceptor"
+      },
+      "e": {
+        "id": "appliedenergistics2:fluix_block"
+      }
+    },
+    "shape": [
+      [
+        [
+          "a",
+          "a",
+          "a",
+          "a",
+          "a"
+        ],
+        [
+          "a",
+          "b",
+          "b",
+          "b",
+          "a"
+        ],
+        [
+          "a",
+          "b",
+          "b",
+          "b",
+          "a"
+        ],
+        [
+          "a",
+          "b",
+          "b",
+          "b",
+          "a"
+        ],
+        [
+          "a",
+          "a",
+          "a",
+          "a",
+          "a"
+        ]
+      ],
+      [
+        [
+          "a",
+          "b",
+          "b",
+          "b",
+          "a"
+        ],
+        [
+          "b",
+          "c",
+          "c",
+          "c",
+          "b"
+        ],
+        [
+          "b",
+          "c",
+          "d",
+          "c",
+          "b"
+        ],
+        [
+          "b",
+          "c",
+          "c",
+          "c",
+          "b"
+        ],
+        [
+          "a",
+          "b",
+          "b",
+          "b",
+          "a"
+        ]
+      ],
+      [
+        [
+          "a",
+          "b",
+          "b",
+          "b",
+          "a"
+        ],
+        [
+          "b",
+          "c",
+          "d",
+          "c",
+          "b"
+        ],
+        [
+          "b",
+          "d",
+          "e",
+          "d",
+          "b"
+        ],
+        [
+          "b",
+          "c",
+          "d",
+          "c",
+          "b"
+        ],
+        [
+          "a",
+          "b",
+          "b",
+          "b",
+          "a"
+        ]
+      ],
+      [
+        [
+          "a",
+          "b",
+          "b",
+          "b",
+          "a"
+        ],
+        [
+          "b",
+          "c",
+          "c",
+          "c",
+          "b"
+        ],
+        [
+          "b",
+          "c",
+          "d",
+          "c",
+          "b"
+        ],
+        [
+          "b",
+          "c",
+          "c",
+          "c",
+          "b"
+        ],
+        [
+          "a",
+          "b",
+          "b",
+          "b",
+          "a"
+        ]
+      ],
+      [
+        [
+          "a",
+          "a",
+          "a",
+          "a",
+          "a"
+        ],
+        [
+          "a",
+          "b",
+          "b",
+          "b",
+          "a"
+        ],
+        [
+          "a",
+          "b",
+          "b",
+          "b",
+          "a"
+        ],
+        [
+          "a",
+          "b",
+          "b",
+          "b",
+          "a"
+        ],
+        [
+          "a",
+          "a",
+          "a",
+          "a",
+          "a"
+        ]
+      ]
+    ]
+  
+  }

@@ -1,0 +1,32 @@
+{
+  "configs": [
+    {
+      "types": {
+        "message": [
+          {
+            "conditions": [],
+            "outcomes": [
+              {
+                "command": "/tellraw $playerName [\"\",{\"text\":\"[Twitch]\",\"bold\":true,\"color\":\"dark_purple\"},{\"text\":\" \",\"bold\":true},{\"text\":\"$display-name: $message\"}]",
+                "type": "command"
+              }
+            ]
+          }
+        ],
+        "action": [
+          {
+            "conditions": [],
+            "outcomes": [
+              {
+                "command": "/tellraw $playerName [\"\",{\"text\":\"[Twitch]\",\"bold\":true,\"color\":\"dark_purple\"},{\"text\":\" \",\"bold\":true},{\"text\":\"*\",\"bold\":true,\"color\":\"gold\"},{\"text\":\"$display-name $message\",\"color\":\"gold\"}]",
+                "type": "command"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "init": [],
+  "type": "chat"
+}

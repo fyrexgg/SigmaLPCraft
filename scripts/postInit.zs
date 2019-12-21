@@ -26,15 +26,23 @@ function initRecipes() {
 	
 	scripts.recipes.mods.akashicTome.init();
 	scripts.recipes.mods.apotheosis.init();
+	scripts.recipes.mods.appliedEnergistics.init();
+	scripts.recipes.mods.chanceCubes.init();
+	scripts.recipes.mods.evilcraft.init();
 	scripts.recipes.mods.huntingDim.init();
+	scripts.recipes.mods.mysticalAgriculture.init();
 	scripts.recipes.mods.rustic.init();
 	scripts.recipes.mods.veFluids.init();
 }
 
 function initIntegration() {
+	scripts.modIntegrations.actuallyAdditions.init();
+	scripts.modIntegrations.enderIO.init();
 	scripts.modIntegrations.initialInventory.init();
 	scripts.modIntegrations.loottabletweaker.init();
+	scripts.modIntegrations.mekanism.init();
 	scripts.modIntegrations.rustic.init();
+	scripts.modIntegrations.thermalExpansion.init();
 }
 
 function initItemModifiers() {

@@ -13,7 +13,7 @@ import crafttweaker.item.IIngredient;
 static shapedRecipes as IIngredient[][][][IItemStack] = {
     <huntingdim:frame> * 2 : [
 			[
-	  			[<ore:logWood>, <rustic:fluid_bottle>.withTag({Fluid: {FluidName: "ale", Amount: 1000, Tag: {Quality: 0.75 as float}}})]
+	  			[<ore:logWood>, <rustic:fluid_bottle>.withTag({Fluid: {FluidName: "ale", Amount: 1000}})]
 			]
 	]
 };
