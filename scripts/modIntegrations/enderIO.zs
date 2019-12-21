@@ -9,4 +9,7 @@
 function init() {
     //Charged Certus Quartz
     enderio.removeSagMill(<appliedenergistics2:charged_quartz_ore>);
+
+    //Ore Excavation
+    enderio.addEnchanter(<enchantment:oeintegration:oreexcavation>, <oeintegration:excavatemodifier>, 8, 2);
 }

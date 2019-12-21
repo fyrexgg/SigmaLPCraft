@@ -31,6 +31,7 @@ function initRecipes() {
 	scripts.recipes.mods.evilcraft.init();
 	scripts.recipes.mods.huntingDim.init();
 	scripts.recipes.mods.mysticalAgriculture.init();
+	scripts.recipes.mods.oreEx.init();
 	scripts.recipes.mods.rustic.init();
 	scripts.recipes.mods.veFluids.init();
 }

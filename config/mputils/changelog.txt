@@ -20,6 +20,9 @@ Enhancements:
 * Turned on Cylic step height for easier exploring
 * Added recipes for Mystical Agriculture infusion crystals
 * Changed ME Controller recipe to be a custom Compact Machines miniaturization recipe
+* Changed recipe for ME Terminal and ME Crafting Terminal to include Vaultopic items
+* Added recipe for Ore Excavation Modifier
+* Added the ability to get the Excavation enchant from the EnderIO enchanter
 
 Mod Updates:
 * Actually Additions (r151-2)
@@ -36,6 +39,3 @@ Player Skin (1.0.5)
 
 Mod Removals:
 * NoNetherPortals (v1.0.0)
-
-Known Issues:
-* Texture of the ME Controller when held doesn't show it's proper texture

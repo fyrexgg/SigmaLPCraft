@@ -1,0 +1,85 @@
+Processing texture: matteroverdrive:textures/gui/holo_icons.png
+Processing texture: thebetweenlands:textures/gui/manual/font_atlas.png
+Processing texture: minecraft:textures/gui/title/background/panorama_0.png
+Processing texture: minecraft:textures/gui/title/background/panorama_1.png
+Processing texture: minecraft:textures/gui/title/background/panorama_2.png
+Processing texture: minecraft:textures/gui/title/background/panorama_3.png
+Processing texture: minecraft:textures/gui/title/background/panorama_4.png
+Processing texture: minecraft:textures/gui/title/background/panorama_5.png
+Processing texture: custommainmenu:textures/gui/minecraft.png
+Processing texture: custommainmenu:textures/gui/edition.png
+Processing texture: minecraft:textures/gui/widgets.png
+Detected new text stack trace class: com.zeitheron.darktheme.internal.GUIAwareFontRenderer
+Detected new text stack trace class: lumien.custommainmenu.gui.GuiCustomButton
+Processing texture: custommainmenu:textures/gui/buttons.png
+Detected new text stack trace class: net.minecraft.client.gui.Gui
+Detected new font color #ffff00 in class net.minecraft.client.gui.Gui. Replaced to #ffff00
+Detected new font color #ffffff in class net.minecraft.client.gui.Gui. Replaced to #bbbbbb
+Processing texture: minecraft:textures/gui/options_background.png
+Detected new text stack trace class: net.minecraft.client.gui.GuiListWorldSelectionEntry
+Detected new text stack trace class: net.minecraft.client.gui.GuiListExtended
+Detected new text stack trace class: net.minecraft.client.gui.GuiSlot
+Detected new text stack trace class: net.minecraft.client.gui.GuiWorldSelection
+Detected new font color #808080 in class net.minecraft.client.gui.GuiWorldSelection. Replaced to #808080
+Detected new font color #a0a0a0 in class net.minecraft.client.gui.Gui. Replaced to #a0a0a0
+Detected new font color #e0e0e0 in class net.minecraft.client.gui.Gui. Replaced to #e0e0e0
+Processing texture: minecraft:textures/gui/world_selection.png
+Detected new text stack trace class: com.bloodnbonesgaming.loadingscreens.client.LoadingScreenRendererCustom
+Detected new text stack trace class: net.minecraft.client.LoadingScreenRenderer
+Detected new text stack trace class: net.minecraft.client.Minecraft
+Detected new text stack trace class: net.minecraftforge.fml.client.FMLClientHandler
+Detected new text stack trace class: net.minecraft.server.integrated.IntegratedServer
+Detected new text stack trace class: net.minecraft.client.network.NetHandlerPlayClient
+Detected new text stack trace class: net.minecraft.network.play.server.SPacketJoinGame
+Detected new text stack trace class: net.minecraft.network.PacketThreadUtil$1
+Detected new text stack trace class: java.util.concurrent.Executors$RunnableAdapter
+Detected new text stack trace class: java.util.concurrent.FutureTask
+Detected new text stack trace class: net.minecraft.util.Util
+Detected new text stack trace class: net.minecraft.client.main.Main
+Detected new text stack trace class: sun.reflect.NativeMethodAccessorImpl
+Detected new text stack trace class: sun.reflect.DelegatingMethodAccessorImpl
+Detected new text stack trace class: java.lang.reflect.Method
+Detected new text stack trace class: net.minecraft.launchwrapper.Launch
+Detected new text stack trace class: org.multimc.onesix.OneSixLauncher
+Detected new text stack trace class: org.multimc.EntryPoint
+Processing texture: minecraft:textures/gui/icons.png
+Detected new text stack trace class: journeymap.client.render.draw.DrawUtil
+Detected new text stack trace class: journeymap.client.ui.minimap.DisplayVars$MapPresetStatus
+Detected new text stack trace class: journeymap.client.ui.minimap.MiniMap
+Detected new text stack trace class: journeymap.client.ui.UIManager
+Detected new text stack trace class: journeymap.client.forge.event.MiniMapOverlayHandler
+Detected new text stack trace class: net.minecraftforge.fml.common.eventhandler.ASMEventHandler
+Detected new text stack trace class: net.minecraftforge.fml.common.eventhandler.EventBus
+Detected new text stack trace class: net.minecraftforge.client.GuiIngameForge
+Detected new text stack trace class: journeymap.client.ui.theme.ThemeCompassPoints
+Detected new text stack trace class: journeymap.client.ui.minimap.LabelVars
+Detected new text stack trace class: journeymap.client.ui.minimap.DisplayVars
+Detected new text stack trace class: net.minecraft.client.gui.GuiNewChat
+Detected new text stack trace class: mcp.mobius.waila.overlay.DisplayUtil
+Detected new text stack trace class: mcp.mobius.waila.overlay.tooltiprenderers.TTRenderString
+Detected new text stack trace class: mcp.mobius.waila.overlay.Tooltip$Renderable
+Detected new text stack trace class: mcp.mobius.waila.overlay.Tooltip
+Detected new text stack trace class: mcp.mobius.waila.overlay.OverlayRenderer
+Detected new text stack trace class: mcp.mobius.waila.overlay.WailaTickHandler
+Detected new text stack trace class: net.minecraftforge.fml.common.FMLCommonHandler
+Detected new text stack trace class: mezz.jei.gui.PageNavigation
+Detected new text stack trace class: mezz.jei.gui.overlay.IngredientGridWithNavigation
+Detected new text stack trace class: mezz.jei.gui.overlay.IngredientListOverlay
+Detected new text stack trace class: mezz.jei.gui.GuiEventHandler
+Detected new text stack trace class: net.minecraft.client.gui.GuiScreen
+Processing texture: enderio:textures/gui/40/enchanter.png
+Processing texture: endercore:textures/gui/widgets.png
+Processing texture: enderio:textures/gui/40/widgetsv2.png
+Detected new text stack trace class: net.minecraftforge.fml.client.config.GuiUtils
+Detected new text stack trace class: mezz.jei.gui.recipes.RecipesGui
+Detected new text stack trace class: crazypants.enderio.machines.integration.jei.EnchanterRecipeCategory$EnchanterRecipeWrapper
+Detected new text stack trace class: mezz.jei.gui.recipes.RecipeLayout
+Detected new text stack trace class: net.minecraft.client.renderer.RenderItem
+Detected new text stack trace class: mezz.jei.plugins.vanilla.ingredients.item.ItemStackRenderer
+Detected new text stack trace class: mezz.jei.gui.ingredients.GuiIngredient
+Detected new text stack trace class: mezz.jei.gui.TooltipRenderer
+Processing texture: jei:textures/gui/gui_vanilla.png
+Processing texture: minecraft:textures/gui/container/creative_inventory/tabs.png
+Processing texture: minecraft:textures/gui/container/creative_inventory/tab_items.png
+Detected new text stack trace class: net.minecraft.client.gui.inventory.GuiContainerCreative
+Detected new font color #404040 in class net.minecraft.client.gui.inventory.GuiContainerCreative. Replaced to #bbbbbb
