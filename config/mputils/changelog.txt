@@ -3,6 +3,16 @@
 PLEASE USE THE BUG TRACKER FOR REPORTING ISSUES!
 Sigma's Twitch chat is not the place to report bugs.
 ------------------------------------------------------------------
+0.0.2.1-alpha
+
+Bug Fixes:
+* Fixed Dark Gem's not dropping for ore when broken.
+
+Enhancements:
+* Configured Loading Screens so it's not blinding white and added some tips.
+* Changed the configuration for Travellers backpack to not place when player dies.
+
+------------------------------------------------------------------
 0.0.2-alpha
 
 Bug Fixes:
