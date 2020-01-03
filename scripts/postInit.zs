@@ -29,10 +29,12 @@ function initRecipes() {
 	scripts.recipes.mods.appliedEnergistics.init();
 	scripts.recipes.mods.chanceCubes.init();
 	scripts.recipes.mods.evilcraft.init();
+	scripts.recipes.mods.gendustry.init();
 	scripts.recipes.mods.huntingDim.init();
 	scripts.recipes.mods.mysticalAgriculture.init();
 	scripts.recipes.mods.oreEx.init();
 	scripts.recipes.mods.rustic.init();
+	scripts.recipes.mods.theBetweenlands.init();
 	scripts.recipes.mods.veFluids.init();
 }
 

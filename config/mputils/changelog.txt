@@ -3,6 +3,39 @@
 PLEASE USE THE BUG TRACKER FOR REPORTING ISSUES!
 Sigma's Twitch chat is not the place to report bugs.
 ------------------------------------------------------------------
+0.0.3-alpha
+
+Bug Fixes:
+* ReEnabled the ability for ender pearls to be in LootTables.
+* Fixed Evilcraft recipes (hopefully).
+
+Enhancements:
+* Turned off the ability for torches and other things to ignite blocks.
+* Remove iron nuggets from LootTables.
+* Turned off excavation enchant from Cyclic.
+* Changed Crimson Middle Gem block to only require 4 gems instead of 9.
+* Changed PlayerSkins to suit better to the community.
+* Gated Gendustry power module via the need for royal jelly first.
+* Removed InventoryPets dugeons and pets are craftable - This is because of an issue with loottables.
+* Moved RogueLike Dungeons to mining world because it's causing issues with loottables as well.
+
+Mod Updates:
+* Botania (r1.10-363)
+* cc-tweaked (1.12.2-4.10.300)
+* Classic Bars (0.5.3)
+* Corail Tombstone (3.6.4-1.12.2)
+* CreativeCore (v1.9.5_mc1.12.2)
+* Cyclic (1.12.2-1.19.19)
+* Electroblobs Wizardry (4.2.7-MC1.12.2)
+* InventoryTweaks (1.6.4+dev.150)
+* JEI (jei_1.12.2-4.15.0.293)
+* Logistics Pipes (0.10.2.216)
+* SilentLib (1.12.2-3.0.14+)
+
+Mod Removals:
+McHorse's McLib (1.0.4-1.12.2)
+MetaMorph (1.1.10-1.12.2)
+------------------------------------------------------------------
 0.0.2.1-alpha
 
 Bug Fixes:

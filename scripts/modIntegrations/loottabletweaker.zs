@@ -14,10 +14,10 @@ function init() {
     LootTable.removeGlobalItem("minecraft:gold_ingot");
     LootTable.removeGlobalItem("minecraft:diamond");
     LootTable.removeGlobalItem("minecraft:emerald");
-    LootTable.removeGlobalItem("minecraft:ender_pearl");
     LootTable.removeGlobalItem("minecraft:blaze_powder");
     LootTable.removeGlobalItem("minecraft:bucket");
     LootTable.removeGlobalItem("minecraft:water_bucket");
+    LootTable.removeGlobalItem("minecraft:iron_nugget");
 
     //Remove all Botania items from LootTables
     LootTable.removeModTable("botania");

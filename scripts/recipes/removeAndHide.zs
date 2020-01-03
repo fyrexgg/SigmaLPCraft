@@ -41,15 +41,6 @@ static ingredientsArray as IIngredient[] = [
     <biomesoplenty:black_dye>,
 
     //Cyclic
-    <cyclicmagic:emerald_helmet>,
-    <cyclicmagic:emerald_chestplate>,
-    <cyclicmagic:emerald_leggings>,
-    <cyclicmagic:emerald_boots>,
-    <cyclicmagic:emerald_sword>,
-    <cyclicmagic:emerald_pickaxe>,
-    <cyclicmagic:emerald_axe>,
-    <cyclicmagic:emerald_spade>,
-    <cyclicmagic:emerald_hoe>,
     <cyclicmagic:purple_boots>,
     <cyclicmagic:purple_leggings>,
     <cyclicmagic:purple_chestplate>,
@@ -74,6 +65,9 @@ static ingredientsArray as IIngredient[] = [
 
     //Extended Crafing
     <extendedcrafting:handheld_table>,
+
+    //Forestry
+    <forestry:gear_bronze>,
 
     //Plants
     <plants2:crystal_pickaxe>,

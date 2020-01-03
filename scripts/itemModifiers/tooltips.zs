@@ -91,6 +91,9 @@ static tooltipArray as IFormattedText[][IItemStack] = {
     ],
     <actuallyadditions:block_misc:3> : [
         format.yellow("Spawns in the hunting dimension between y28 and 60")
+    ],
+    <enderio:block_fused_quartz> : [
+        format.red("Make sure that you have your Alloy Smelter in 'Alloy only mode'")
     ]
 };
 
