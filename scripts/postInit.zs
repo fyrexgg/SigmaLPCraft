@@ -42,6 +42,7 @@ function initIntegration() {
 	scripts.modIntegrations.actuallyAdditions.init();
 	scripts.modIntegrations.enderIO.init();
 	scripts.modIntegrations.initialInventory.init();
+	scripts.modIntegrations.inWorldCrafting.init();
 	scripts.modIntegrations.loottabletweaker.init();
 	scripts.modIntegrations.mekanism.init();
 	scripts.modIntegrations.rustic.init();

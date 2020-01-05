@@ -12,6 +12,7 @@ import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
 
 import mods.mekanism.enrichment;
+import mods.mekanism.infuser;
 
 zenClass Mekanism {
     zenConstructor() {
@@ -24,5 +25,14 @@ zenClass Mekanism {
     
     function removeEnrichment(input as IIngredient) {
         enrichment.removeRecipe(input);
+    }
+
+    //Infuser
+    function addInfuser(infusionType as string, infusionConsumed as int, input as IIngredient, output as IItemStack) {
+        infuser.addRecipe(infusionType, infusionConsumed, input, output);
+    }
+
+    function removeInfuser(output as IItemStack) {
+        infuser.removeRecipe(output);
     }
 }

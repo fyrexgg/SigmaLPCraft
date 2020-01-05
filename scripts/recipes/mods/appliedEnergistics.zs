@@ -1,5 +1,5 @@
 /*
-    This script handles the recipes for Apotheosis
+    This script handles the recipes for Applied Energistics
 
     Note: These scripts are created and for the usage in modpacks curated by FyreXgg. 
     You can use these scripts for reference and for learning but not for copying and 

@@ -13,14 +13,8 @@ import crafttweaker.item.IItemStack;
 import crafttweaker.item.WeightedItemStack;
 import crafttweaker.liquid.ILiquidStack;
 
-import mods.enderio.AlloySmelter;
-import mods.enderio.CombustionGen;
 import mods.enderio.Enchanter;
 import mods.enderio.SagMill;
-import mods.enderio.SliceNSplice;
-import mods.enderio.SoulBinder;
-import mods.enderio.Tank;
-import mods.enderio.Vat;
 
 zenClass EnderIO {
 	zenConstructor() {

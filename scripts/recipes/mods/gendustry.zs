@@ -1,5 +1,5 @@
 /*
-    This script handles the recipes for Forestry
+    This script handles the recipes for Gendustry
 
     Note: These scripts are created and for the usage in modpacks curated by FyreXgg. 
     You can use these scripts for reference and for learning but not for copying and 
@@ -39,7 +39,6 @@ static namedShapelessRecipes as IIngredient[][][string][IItemStack] = {
 
 //Removals
 static removeRecipes as IItemStack[] = [
-    <gendustry:power_module> 
 ];
 
 function init() {

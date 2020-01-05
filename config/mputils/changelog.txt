@@ -3,6 +3,24 @@
 PLEASE USE THE BUG TRACKER FOR REPORTING ISSUES!
 Sigma's Twitch chat is not the place to report bugs.
 ------------------------------------------------------------------
+0.0.3.1-alpha
+
+Bug Fixes:
+* Removed Gendustry Power Module recipe and replaced with the one that we want to use with the Royal Jelly
+
+Enhancements:
+* Removed Wand of Animation Erebus as it's just a trolly item in this pack.
+* Removed uncraftable lumberaxes from JEI
+* Added fluid transform recipe for making Chorus Fruit.
+
+Mod Updates:
+CreativeCore (v1.9.86_mc1.12.2)
+
+Mod Additions:
+/dank/null (1.12.2-1.7.89)
+Lumberjack (1.4.1)
+InWorldCrafting (1.12.2-1.2.0)
+------------------------------------------------------------------
 0.0.3-alpha
 
 Bug Fixes:

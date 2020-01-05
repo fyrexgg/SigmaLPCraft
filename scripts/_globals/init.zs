@@ -11,6 +11,7 @@
 //Mods
 global actuallyadditions as scripts._globals.mods.actuallyAdditions.ActuallyAdditions = scripts._globals.mods.actuallyAdditions.ActuallyAdditions();
 global enderio as scripts._globals.mods.enderIO.EnderIO = scripts._globals.mods.enderIO.EnderIO();
+global inworldcrafting as scripts._globals.mods.inWorldCrafting.InWorldCrafting = scripts._globals.mods.inWorldCrafting.InWorldCrafting();
 global mekanism as scripts._globals.mods.mekanism.Mekanism = scripts._globals.mods.mekanism.Mekanism();
 global rustic as scripts._globals.mods.rustic.Rustic = scripts._globals.mods.rustic.Rustic();
 global thermalexpansion as scripts._globals.mods.thermalExpansion.ThermalExpansion = scripts._globals.mods.thermalExpansion.ThermalExpansion();

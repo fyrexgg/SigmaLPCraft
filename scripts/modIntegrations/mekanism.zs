@@ -9,4 +9,8 @@
 function init() {
     //Charged Certus Quartz
     mekanism.removeEnrichment(<appliedenergistics2:charged_quartz_ore>);
+    
+    //Steel
+    mekanism.removeInfuser(<mekanism:otherdust:1>);
+    mekanism.addInfuser("CARBON", 10, <mekanism:enrichediron>, <thermalfoundation:material:96>);
 }

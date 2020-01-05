@@ -63,6 +63,9 @@ static ingredientsArray as IIngredient[] = [
     <cyclicmagic:sandstone_hoe>,
     <cyclicmagic:sandstone_sword>,
 
+    //Erebus
+    <erebus:wand_of_animation>,
+
     //Extended Crafing
     <extendedcrafting:handheld_table>,
 
