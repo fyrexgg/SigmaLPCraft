@@ -12,6 +12,7 @@ Enhancements:
 * Removed Wand of Animation Erebus as it's just a trolly item in this pack.
 * Removed uncraftable lumberaxes from JEI
 * Added fluid transform recipe for making Chorus Fruit.
+* Mekanism machines now only output Thermal items to keep everything consistent.
 
 Mod Updates:
 CreativeCore (v1.9.86_mc1.12.2)
