@@ -3,6 +3,25 @@
 PLEASE USE THE BUG TRACKER FOR REPORTING ISSUES!
 Sigma's Twitch chat is not the place to report bugs.
 ------------------------------------------------------------------
+0.0.4-alpha
+
+Enhancements:
+* Added some more community members to the player skins mod (BeefQL, Dexjam, Astro, Mdoc, Happy, LTG, Qeelin, 2MM_Jen, Pweets, goldude) 
+* Added a recipe for the Cincinnasite Ore to be processed in a furnace
+* Changed the recipe for the Mekanism teleportation core to require Jade from Erebus
+
+Mod Updates:
+* The Betweenlands (3.5.5)
+* Aroma1997Core (1.12.2-2.0.0.2.b166)
+* ChanceCubes (1.12.2-5.0.1.335)
+* Controlling (3.0.8)
+* CreativeCore (v1.9.87_mc1.12.2)
+* Custom Main Menu (MC1.12.2-2.0.9.1)
+* EnderIO (1.12.2-5.1.53)
+* Ender Tweaker (1.12.2-1.2.0)
+* Magic Bees (1.12.2-3.2.25)
+
+------------------------------------------------------------------
 0.0.3.1-alpha
 
 Bug Fixes:
